@@ -10,10 +10,10 @@
       "/content/myriad/placeholders:/placeholders.json",
       "/content/myriad/products/recommended-products:/products/recommended-products.json",
       "/content/myriad/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/myriad/images/products/:/images/products/"
+      "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
       "/content/myriad",
-      "/content/dam/myriad/images/products/"
+      "/content/dam/citisignal/images/products/"
     ]
 }
